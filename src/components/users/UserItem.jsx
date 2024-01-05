@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import {Router, Routes, Route , Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { useContext } from "react"
 import GithubContext from "../../context/github/GithubContext"
 
